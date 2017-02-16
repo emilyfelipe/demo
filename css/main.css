@@ -1,0 +1,16 @@
+//This is a demo CSS file.
+
+body {
+  width: 100%;
+  height: auto;
+  background-color: #b0dfec;
+}
+
+h1 {
+  color: #4c90b1;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 60pt;
+  font-weight: bold;
+  left: 50%;
+  top: 50%;
+}
