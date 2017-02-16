@@ -11,6 +11,5 @@ h1 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 60pt;
   font-weight: bold;
-  left: 50%;
-  top: 50%;
+  margin: 50% 0% 0% 50%;
 }
