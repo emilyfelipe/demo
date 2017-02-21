@@ -14,10 +14,10 @@ body {
   margin-top: -26%;
   margin-left: -45%;
   background: #ebf8f2;
-  background: -webkit-linear-gradient(top,rgba(248, 235, 241, 0),rgba(242, 221, 227, 0)); /* Safari 5.1-6 */
-  background: -o-linear gradient(bottom,rgba (248, 235, 241, 0),rgba(242, 221, 227, 0)); /* Opera 11.1-12 */
-  background: -moz-linear-gradient(bottom,rgba(248, 235, 241, 0),rgba(242, 221, 227, 0)); /* Firefox 3.6-15 */
-  background: linear-gradient(to bottom,rgba(248, 235, 241, 0),rgba(242, 221, 227, 0));
+  background: -webkit-linear-gradient(top,rgba(248, 235, 241, 70),rgba(242, 221, 227, 70)); /* Safari 5.1-6 */
+  background: -o-linear gradient(bottom,rgba (248, 235, 241, 70),rgba(242, 221, 227, 70)); /* Opera 11.1-12 */
+  background: -moz-linear-gradient(bottom,rgba(248, 235, 241, 70),rgba(242, 221, 227, 70)); /* Firefox 3.6-15 */
+  background: linear-gradient(to bottom,rgba(248, 235, 241, 70),rgba(242, 221, 227, 70));
 }
 
 h1 {
