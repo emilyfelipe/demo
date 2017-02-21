@@ -21,9 +21,17 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
   color: #333333;
+=======
+  color: #999999;
+>>>>>>> test
   font-family: Helvetica, Arial, sans-serif;
   font-size: 60pt;
   font-weight: bold;
   text-align: center;
+<<<<<<< HEAD
+=======
+  margin-top: 25%;
+>>>>>>> test
 }
