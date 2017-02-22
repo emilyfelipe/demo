@@ -34,6 +34,14 @@ body {
 >>>>>>> test
 }
 
+.container:hover {
+  background: #f2dde3;
+  background: -webkit-linear-gradient(#f2dde3, #ebf8f2); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#f2dde3, #ebf8f2); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#f2dde3, #ebf8f2); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#f2dde3, #ebf8f2);
+}
+
 h1 {
   color: #999999;
   font-family: Helvetica, Arial, sans-serif;
@@ -41,4 +49,13 @@ h1 {
   font-weight: bold;
   text-align: center;
   margin-top: 25%;
+}
+
+h2 {
+  color: #CCCCCC;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28pt;
+  font-weight: normal;
+  text-align: center;
+  line-height: 20px;
 }
